@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with Ava</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #202123;
+            color: #e8e8e8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        h1 {
+            color: #e8e8e8;
+            margin-bottom: 20px;
+            font-size: 28px;
+            text-align: center;
+        }
+
+        #chatBox {
+            width: 100%;
+            max-width: 600px;
+            background: #333;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            height: 500px; 
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        #messages {
+            flex-grow: 1;
+            padding: 15px;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: #555 #333;
+        }
+
+        #messages::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        #messages::-webkit-scrollbar-thumb {
+            background: #555;
+            border-radius: 4px;
+        }
+
+        #messages::-webkit-scrollbar-track {
+            background: #333;
+        }
+
+        .messageBox {
+            max-width: 70%;
+            padding: 10px 15px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            word-wrap: break-word;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        .userMessageBox {
+            background-color: #444;
+            color: #fff;
+            align-self: flex-end;
+        }
+
+        .responseBox {
+            background-color: #555;
+            color: #fff;
+            align-self: flex-start;
+        }
+
+        #inputArea {
+            display: flex;
+            padding: 10px;
+            background-color: #333;
+            border-top: 1px solid #444;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px;
+            font-size: 14px;
+            border: none;
+            border-radius: 5px;
+            background-color: #444;
+            color: #fff;
+            outline: none;
+            margin-right: 10px;
+        }
+
+        button {
+            padding: 12px 20px;
+            background-color: #1e90ff;
+            border: none;
+            color: white;
+            font-size: 14px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        button:hover {
+            background-color: #1c86ee;
+            transform: scale(1.05);
+        }
+
+        #response {
+            text-align: center;
+            font-size: 12px;
+            color: #aaa;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Chat with Ava</h1>
+        <div id="chatBox">
+            <div id="messages"></div>
+            <div id="inputArea">
+                <input type="text" id="userInput" placeholder="Type your message...">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Script with the updated changes
+        async function sendMessage() {
+            const userInput = document.getElementById('userInput').value.trim();
+            const messagesDiv = document.getElementById('messages');
+            
+            if (userInput === "") {
+                alert("Please type a message!");
+                return;
+            }
+        
+            // Append user's message
+            const userMessage = document.createElement('div');
+            userMessage.classList.add('messageBox', 'userMessageBox');
+            userMessage.textContent = "You: " + userInput;
+            messagesDiv.appendChild(userMessage);
+        
+            // Clear input field
+            document.getElementById('userInput').value = "";
+        
+            // Auto-scroll to bottom
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        
+            // Show bot's response from Flask API
+            try {
+                const response = await fetch('http://127.0.0.1:5000/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ message: userInput })
+                });
+        
+                const data = await response.json();
+        
+                // Check if the response has an error message
+                if (data.error) {
+                    const botResponse = document.createElement('div');
+                    botResponse.classList.add('messageBox', 'responseBox');
+                    botResponse.textContent = "Ava: " + data.error; // Show error message from Flask
+                    messagesDiv.appendChild(botResponse);
+                } else {
+                    // Append bot's response
+                    const botResponse = document.createElement('div');
+                    botResponse.classList.add('messageBox', 'responseBox');
+                    botResponse.textContent = "Ava: " + data.response; // Use "response" from Flask
+                    messagesDiv.appendChild(botResponse);
+                }
+        
+                // Auto-scroll to bottom
+                messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            } catch (error) {
+                console.error("Error:", error);
+                const errorMessage = document.createElement('div');
+                errorMessage.classList.add('messageBox', 'responseBox');
+                errorMessage.textContent = "Ava: Sorry, something went wrong. Please try again.";
+                messagesDiv.appendChild(errorMessage);
+            }
+        }
+    </script>
+</body>
+</html>

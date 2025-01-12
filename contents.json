@@ -1,0 +1,281 @@
+{
+    "indian_cricketers" : {
+        
+    "ms dhoni": "Mahendra Singh Dhoni, commonly known as MS Dhoni, is one of India's most iconic cricketers and captains. Born on July 7, 1981, in Ranchi, Jharkhand, Dhoni made his international debut in 2004 and quickly became known for his exceptional wicket-keeping skills, powerful batting, and calm leadership. As captain, he led India to historic victories, including the ICC T20 World Cup in 2007, the ICC Cricket World Cup in 2011, and the ICC Champions Trophy in 2013, making him the only captain to win all three major ICC trophies. Renowned for his cool under pressure demeanor, Dhoni was also a legendary finisher in limited-overs cricket. In the Indian Premier League (IPL), he has been the face of Chennai Super Kings (CSK), leading them to multiple titles and earning immense fan loyalty. His contributions to cricket have left an indelible mark, making him one of the sport's greatest ambassadors.",
+    
+    "virat kohli": "Virat Kohli, born on November 5, 1988, in Delhi, is one of the most accomplished and influential cricketers in the history of the game. Known for his aggressive batting style and unmatched consistency, Kohli has redefined modern cricket with his remarkable performances across formats. He made his international debut in 2008 and quickly rose to prominence, becoming the backbone of India's batting lineup. Kohli is widely regarded as one of the best chasers in limited-overs cricket, earning him the nickname 'Chase Master'. As the captain of the Indian cricket team from 2013 to 2022, he led India to numerous memorable victories, including the team's dominance in Test cricket, where they achieved the No. 1 ranking under his leadership. Kohli's records include numerous centuries across formats, making him one of the top run-scorers in cricket history. In the Indian Premier League (IPL), he has been a long-standing member of the Royal Challengers Bangalore (RCB), where he has also set several batting records. His passion, work ethic, and charisma have made him a global icon and an inspiration for aspiring cricketers.",
+            
+    "sachin tendulkar": "Sachin Tendulkar, the 'God of Cricket,' is regarded as one of the greatest batsmen in cricket history. With 100 international centuries, he is an inspiration to millions worldwide.",
+    
+    "rohit sharma": "Rohit Sharma, also known as the 'Hitman,' is famous for his elegant batting and record-breaking performances. He holds the record for the highest individual score in ODIs with 264 runs.",
+    
+    "rahul dravid": "Rahul Dravid, nicknamed 'The Wall,' is renowned for his solid technique and reliability. A legendary cricketer and current coach of the Indian team, he is respected globally.",
+            
+    "sunil gavaskar": "Sunil Gavaskar, regarded as one of the greatest opening batsmen in cricket, was the first player to score 10,000 runs in Test cricket. He was known for his solid technique and immense contributions to Indian cricket.",
+    
+    "kapil dev": "Kapil Dev, a former Indian cricketer and captain, led India to victory in the 1983 Cricket World Cup. Known for his aggressive all-round performances, Kapil is regarded as one of the greatest all-rounders in cricket history.",
+    
+    "anil kumble": "Anil Kumble, one of India's greatest spinners, is the highest wicket-taker for India in both Test and ODI cricket. Known for his resilience and skill, he is one of the few bowlers to take 600+ wickets in Tests.",
+    
+    "harbhajan singh": "Harbhajan Singh, a prominent off-spinner, has been an integral part of Indian cricket. He is best known for his match-winning performances, especially in India's historic 2001 Test series win against Australia.",
+    
+    "yuvraj singh": "Yuvraj Singh, known for his powerful batting and match-winning contributions, is famous for his role in India's 2007 T20 World Cup and 2011 ODI World Cup victories. He is also known for hitting six sixes in an over in the 2007 T20 World Cup.",
+    
+    "shikhar dhawan": "Shikhar Dhawan, known for his aggressive batting style, is one of India's premier openers. He has made significant contributions to India's success in international cricket with his consistent performances across formats.",
+    
+    "ajinkya rahane": "Ajinkya Rahane is known for his technique and temperament, especially in overseas conditions. He has been an important middle-order batsman for India and played a crucial role in India's 2021 Test series win in Australia.",
+    
+    "cheteshwar pujara": "Cheteshwar Pujara, one of India's most dependable batsmen, is known for his solid technique and ability to bat for long hours. He has been a key player in India's Test successes, especially in challenging conditions.",
+    
+    "kl rahul": "KL Rahul, a versatile batsman and wicketkeeper, has been a consistent performer for India in all formats. Known for his adaptability and calm nature, he is one of the top modern-day cricketers.",
+    
+    "hardik pandya": "Hardik Pandya is an all-rounder known for his aggressive batting and sharp bowling. He has made significant contributions to India's success in limited-overs cricket and has been crucial in their 2017 Champions Trophy win.",
+    
+    "bhuvneshwar kumar": "Bhuvneshwar Kumar is known for his swing bowling and ability to perform well with both the new ball and in death overs. He has been a consistent performer for India, especially in limited-overs cricket.",
+    
+    "jasprit bumrah": "Jasprit Bumrah, one of the best fast bowlers in modern-day cricket, is known for his exceptional yorkers and death-over bowling. He has been instrumental in India's success across formats and is regarded as one of the top bowlers in world cricket.",
+    
+    "ravi shastri": "Ravi Shastri, a former cricketer and current coach of the Indian national team, was an all-rounder who contributed with both bat and ball. He was part of the team that won the 1983 World Cup and has since been involved in Indian cricket administration.",
+    
+    "sourav ganguly": "Sourav Ganguly, known as 'Dada,' is regarded as one of India's most successful captains. He played a key role in shaping India's aggressive approach to cricket and led India to several historic victories, including the 2002 NatWest Series in England.",
+    
+    "vikram singh": "Vikram Singh is known for his contributions to India's domestic cricket scene, playing for several years at the state level and showing promise in various formats of the game.",
+    
+    "krunal pandya": "Krunal Pandya, the all-rounder, is known for his contributions with both bat and ball. He has played for India in limited-overs formats and is regarded for his ability to take crucial wickets and score quickly in the lower order.",
+    
+    "mohammad shami": "Mohammad Shami is a fast bowler known for his pace and swing, and he has been a key player in India's fast-bowling attack. He was instrumental in India's success in the 2015 and 2019 ICC World Cups.",
+    
+    "ishant sharma": "Ishant Sharma, one of India's leading fast bowlers, has been a key figure in Indian cricket, especially in Test cricket. He has consistently bowled well in overseas conditions and has taken over 300 wickets in Tests.",
+    
+    "ravindra jadeja": "Ravindra Jadeja, an all-rounder, is known for his sharp left-arm spin and brilliant fielding. He has been a key player for India in all formats, known for his consistency and match-winning performances.",
+    
+    "kuldeep yadav": "Kuldeep Yadav, a left-arm chinaman bowler, is known for his deceptive spin and wicket-taking abilities. He has been one of India's most successful bowlers in limited-overs cricket and played a key role in their 2017 Champions Trophy win.",
+    
+    "yuzvendra chahal": "Yuzvendra Chahal, a leg-spinner, has been a key player for India in limited-overs cricket. Known for his variations and wicket-taking ability, he has been a crucial part of India's bowling attack in white-ball formats.",
+    
+    "mayank agarwal": "Mayank Agarwal, an opening batsman, has made significant contributions in Test cricket, especially with his solid technique and ability to score big centuries in challenging conditions.",
+    
+    "dinesh karthik": "Dinesh Karthik, known for his wicketkeeping and finishing abilities, has been a reliable middle-order batsman. He played a key role in India’s victory in the 2007 T20 World Cup and is known for his match-winning performances in domestic cricket.",
+    
+    "rishabh pant": "Rishabh Pant, a dynamic wicketkeeper-batsman, is known for his fearless batting and match-winning contributions in all formats. He has become a key player for India, especially in Test cricket, with his explosive performances.",
+    
+    "prithvi shaw": "Prithvi Shaw, a young opening batsman, has impressed with his aggressive batting style and ability to score quickly. He has been a promising player in India's Test and ODI squads.",
+    
+    "shreyas iyer": "Shreyas Iyer, a stylish right-hand batsman, has been a key player for India in limited-overs formats. He has also contributed significantly in the middle order and is known for his composure in crucial situations.",
+    
+    "rahul tewatia": "Rahul Tewatia, an all-rounder, is known for his contributions with both bat and ball. He rose to fame in the IPL with his stunning batting performances and is regarded as a key player in T20 cricket.",
+    
+    "deepak chahar": "Deepak Chahar, a right-arm fast bowler, is known for his ability to swing the ball and perform in powerplay overs. He has been a key figure for India in limited-overs cricket, especially in T20Is.",
+    
+    "navdeep saini": "Navdeep Saini, a fast bowler, is known for his pace and aggressive style of bowling. He has been a part of India’s limited-overs squads and is regarded as one of the quickest bowlers in the Indian team.",
+
+    "jacques kallis": "Jacques Kallis, born on October 16, 1975, in Cape Town, South Africa, is widely regarded as one of the greatest all-rounders in cricket history. With over 10,000 runs and 250 wickets in both Test and ODI cricket, Kallis showcased unmatched consistency and versatility. Known for his textbook batting technique and ability to deliver in critical moments, he played a pivotal role in South Africa's success during his career. As a slip fielder, Kallis was also exceptional, taking over 300 catches in Test cricket. His all-around excellence made him a legend of the game and an inspiration for future generations.",
+    
+    "ricky ponting": "Ricky Ponting, born on December 19, 1974, in Tasmania, Australia, is one of the most successful captains in cricket history and one of the finest batsmen to ever play the game. As Australia's captain, Ponting led his team to two consecutive ICC Cricket World Cup victories in 2003 and 2007 and was instrumental in their dominance in Test cricket during the 2000s. Known for his aggressive batting style and sharp cricketing brain, Ponting scored over 27,000 international runs across formats and remains Australia's leading run-scorer in Test and ODI cricket. His leadership and batting prowess cemented his place as an all-time great.",
+    
+    "kumar sangakkara": "Kumar Sangakkara, born on October 27, 1977, in Matale, Sri Lanka, is one of the finest wicketkeeper-batsmen and most stylish left-handed batsmen in cricket history. With over 28,000 international runs, Sangakkara was a cornerstone of Sri Lankan cricket during his career. His elegant batting and ability to perform under pressure made him one of the most respected players globally. Sangakkara led Sri Lanka to the final of the 2011 ICC Cricket World Cup and was part of the team that won the ICC T20 World Cup in 2014. Post-retirement, he continues to contribute to the game as a commentator and cricket administrator.",
+    
+    "muttiah muralitharan": "Muttiah Muralitharan, born on April 17, 1972, in Kandy, Sri Lanka, is the highest wicket-taker in Test cricket history with 800 wickets. Known for his extraordinary off-spin and ability to turn the ball on any surface, Murali terrorized batsmen for nearly two decades. He played a crucial role in Sri Lanka's cricketing success, including their 1996 ICC Cricket World Cup victory. Muralitharan's dominance as a bowler, combined with his sportsmanship and humility, makes him one of the most celebrated cricketers in history.",
+    
+    "shane warne": "Shane Warne, born on September 13, 1969, in Victoria, Australia, was a cricketing genius who revolutionized leg-spin bowling. With 708 Test wickets, Warne is regarded as one of the greatest bowlers in cricket history. Known for his incredible control, sharp turn, and ability to outthink batsmen, Warne's contributions were instrumental in Australia's dominance during the 1990s and 2000s. He was also a key figure in Australia's 1999 ICC Cricket World Cup victory. Off the field, Warne's charisma and larger-than-life personality made him a global icon.",
+    
+    "wasim akram": "Wasim Akram, born on June 3, 1966, in Lahore, Pakistan, is one of the greatest fast bowlers in cricket history. Known as the 'Sultan of Swing,' Akram mastered the art of reverse swing and was devastating with both the new and old ball. With over 900 international wickets, he played a pivotal role in Pakistan's success, including their victory in the 1992 ICC Cricket World Cup. Akram's ability to deliver in clutch moments and his mentorship of young bowlers have left a lasting legacy in cricket.",
+    
+    "imran khan": "Imran Khan, born on October 5, 1952, in Lahore, Pakistan, is a cricketing legend and one of the greatest all-rounders of all time. As captain, he led Pakistan to their first-ever ICC Cricket World Cup victory in 1992, inspiring his team with his leadership and performances. Imran's career spanned over two decades, during which he excelled with both bat and ball. Post-retirement, he transitioned into politics and became Pakistan's Prime Minister, further solidifying his status as a national icon.",
+
+    "ravichandranan ashwin": "Ravichandran Ashwin, commonly known as R. Ashwin, is one of the most successful off-spinners in modern cricket and a key figure in the Indian cricket team. Born on September 17, 1986, in Chennai, Tamil Nadu, Ashwin has made significant contributions to India's success across all formats of the game. Known for his sharp cricketing intellect, variations, and ability to adapt to different conditions, he is one of the fastest bowlers to reach 400 Test wickets. Ashwin is also an accomplished lower-order batsman with several vital contributions, including five Test centuries. His performances in home conditions have been particularly dominant, where he has consistently outclassed top international batsmen. In addition to his achievements in Test cricket, Ashwin has also been a reliable performer in limited-overs cricket, contributing with both ball and bat. A prominent player in the Indian Premier League (IPL), Ashwin has played for various franchises and remains a vital asset for his team. His strategic approach to the game and match-winning abilities make him one of the most respected players in world cricket today."
+},
+
+"indian_places" : {
+    "delhi": "Delhi, the capital city of India, is a vibrant blend of history, culture, and modernity. Popular tourist spots include the Red Fort, Qutub Minar, India Gate, Lotus Temple, and Humayun's Tomb.",
+    
+    "mumbai": "Mumbai, the financial capital of India, is known for its vibrant culture, nightlife, and attractions. Key spots include the Gateway of India, Marine Drive, Elephanta Caves, and Juhu Beach.",
+    
+    "bangalore": "Bangalore, also known as Bengaluru, is the tech capital of India and a hub for innovation. Popular tourist spots include Lalbagh Botanical Garden, Cubbon Park, Bangalore Palace, and Vidhana Soudha.",
+    
+    "chennai": "Chennai, the capital of Tamil Nadu, is known for its cultural heritage, temples, and beautiful beaches. Notable places to visit are Marina Beach, Kapaleeshwarar Temple, Fort St. George, and Government Museum.",
+    
+    "kolkata": "Kolkata, the cultural capital of India, is famous for its colonial architecture, festivals, and vibrant art scene. Attractions include the Victoria Memorial, Howrah Bridge, Dakshineswar Kali Temple, and Indian Museum.",
+    
+    "hyderabad": "Hyderabad, known for its rich history and modern developments, is famous for its culinary delights and historical landmarks. Key places to visit include Charminar, Golkonda Fort, Hussain Sagar Lake, and Ramoji Film City.",
+    
+    "jaipur": "Jaipur, the capital of Rajasthan, is known as the 'Pink City' and is famous for its royal palaces and forts. Major tourist spots include the Amber Fort, Hawa Mahal, City Palace, and Jantar Mantar.",
+    
+    "udaipur": "Udaipur, known as the 'City of Lakes,' is famous for its palaces, lakes, and scenic views. Notable places include the City Palace, Lake Pichola, Jag Mandir, and Sajjangarh Monsoon Palace.",
+    
+    "goa": "Goa, a coastal state, is famous for its beaches, vibrant nightlife, and Portuguese colonial architecture. Popular tourist spots include Baga Beach, Calangute Beach, Dudhsagar Falls, and Basilica of Bom Jesus.",
+    
+    "agra": "Agra, home to the world-famous Taj Mahal, is known for its Mughal-era architecture. Key places to visit include the Taj Mahal, Agra Fort, Fatehpur Sikri, and Mehtab Bagh.",
+    
+    "kerala": "Kerala, often called 'God's Own Country,' is known for its backwaters, beaches, and hill stations. Major attractions include Alleppey, Munnar, Kumarakom, Thekkady, and Athirappilly Waterfalls.",
+    
+    "rishikesh": "Rishikesh, located on the banks of the Ganges River, is known as the 'Yoga Capital of the World.' Popular spots include the Laxman Jhula, Triveni Ghat, Neelkanth Mahadev Temple, and Rajaji National Park.",
+    
+    "manali": "Manali, a popular hill station in Himachal Pradesh, is known for its scenic beauty, adventure sports, and tranquility. Attractions include Solang Valley, Rohtang Pass, Hidimba Devi Temple, and Old Manali.",
+    
+    "shimla": "Shimla, the capital of Himachal Pradesh, is known for its colonial architecture and pleasant weather. Notable spots include The Ridge, Jakhoo Temple, Kufri, and Christ Church.",
+    
+    "leh-ladakh": "Leh-Ladakh, a high-altitude region, is known for its stunning landscapes, monasteries, and adventure activities. Popular tourist spots include Pangong Lake, Nubra Valley, Thiksey Monastery, and Khardung La.",
+    
+    "mysore": "Mysore, known for its royal heritage and cultural significance, is famous for Mysore Palace, Chamundeshwari Temple, Brindavan Gardens, and St. Philomena's Church.",
+    
+    "chandigarh": "Chandigarh, a well-planned city, is known for its modern architecture and green spaces. Popular spots include Sukhna Lake, Rock Garden, Rose Garden, and Elante Mall.",
+    
+    "kanyakumari": "Kanyakumari, the southernmost tip of India, is known for its scenic views, temples, and beaches. Key tourist spots include the Vivekananda Rock Memorial, Kanyakumari Temple, and Sunset Point.",
+    
+    "jodhpur": "Jodhpur, known as the 'Blue City,' is famous for its forts, palaces, and desert views. Major attractions include Mehrangarh Fort, Umaid Bhawan Palace, Jaswant Thada, and Mandore Gardens.",
+    
+    "jaisalmer": "Jaisalmer, also known as the 'Golden City,' is famous for its desert landscape and ancient architecture. Key places include the Jaisalmer Fort, Sam Sand Dunes, Patwon Ki Haveli, and Bada Bagh.",
+    
+    "varanasi": "Varanasi, one of the oldest cities in the world, is known for its spiritual significance, ghats, and temples. Popular tourist spots include Kashi Vishwanath Temple, Dashashwamedh Ghat, Sarnath, and Manikarnika Ghat.",
+    
+    "bhopal": "Bhopal, the capital of Madhya Pradesh, is known for its lakes and historical landmarks. Attractions include the Upper Lake, Taj-ul-Masajid, Bhojpur Temple, and Bharat Bhavan.",
+    
+    "indore": "Indore, a major city in Madhya Pradesh, is known for its food and historical monuments. Popular spots include Rajwada Palace, Lal Baag Palace, Kanch Mandir, and Sarafa Bazar.",
+    
+    "coorg": "Coorg, also known as Kodagu, is a hill station in Karnataka, famous for its coffee plantations, misty mountains, and wildlife. Notable places include Abbey Falls, Dubare Elephant Camp, and Raja's Seat.",
+    
+    "darjeeling": "Darjeeling, known as the 'Queen of the Hills,' is famous for its tea plantations and Himalayan views. Major tourist spots include Tiger Hill, Batasia Loop, Darjeeling Himalayan Railway, and Peace Pagoda.",
+    
+    "pondicherry": "Pondicherry, a French colonial settlement, is known for its beaches, churches, and vibrant culture. Key attractions include Auroville, Promenade Beach, Sri Aurobindo Ashram, and the Basilica of the Sacred Heart of Jesus.",
+    
+    "sikkim": "Sikkim, known for its stunning Himalayan views, monasteries, and vibrant culture, offers a range of tourist attractions such as Tsomgo Lake, Nathula Pass, Rumtek Monastery, and Yumthang Valley.",
+    
+    "andaman and nicobar islands": "The Andaman and Nicobar Islands are famous for their pristine beaches, coral reefs, and marine life. Popular spots include Radhanagar Beach, Cellular Jail, and the Neil Island.",
+    
+    "delhi-ncr": "The Delhi-NCR region is a bustling metropolitan area with numerous landmarks and historical sites. Attractions include the Akshardham Temple, Lotus Temple, Lodi Gardens, and Dilli Haat.",
+    
+    "lucknow": "Lucknow, known for its Mughal and Awadhi culture, is famous for its historical monuments, food, and hospitality. Key spots include Bara Imambara, Chota Imambara, Rumi Darwaza, and Hazratganj.",
+    
+    "bhubaneswar": "Bhubaneswar, the capital of Odisha, is known for its ancient temples and historical landmarks. Major tourist spots include the Lingaraj Temple, Udayagiri and Khandagiri Caves, and Nandankanan Zoological Park.",
+    
+    "pune": "Pune, a cultural and educational hub, is famous for its historical landmarks and vibrant atmosphere. Attractions include Shaniwar Wada, Aga Khan Palace, Sinhagad Fort, and Osho Ashram.",
+    
+    "rajkot": "Rajkot, a city in Gujarat, is known for its cultural heritage and historical landmarks. Key attractions include the Kaba Gandhi No Delo, Watson Museum, and Ranjit Vilas Palace.",
+    
+    "surat": "Surat, a major city in Gujarat, is known for its textile industry and vibrant culture. Popular places include the Surat Castle, Dumas Beach, Sarthana Nature Park, and the Dutch and Jain temples.",
+    
+    "aurangabad": "Aurangabad, located in Maharashtra, is famous for its historical and cultural heritage. Notable tourist spots include the Ajanta and Ellora Caves, Bibi Ka Maqbara, and Daulatabad Fort.",
+    
+    "jalgaon": "Jalgaon, located in Maharashtra, is known for its agricultural significance and temples. Key tourist spots include the Patna Devi Temple, Ajanta Caves, and Jain Temple in Wadi.",
+    
+    "nagpur": "Nagpur, known as the 'Orange City,' is famous for its oranges and historical sites. Popular spots include the Deekshabhoomi, Sitabuldi Fort, and the Raman Science Centre.",
+    
+    "rajahmundry": "Rajahmundry, located in Andhra Pradesh, is known for its beautiful riverfront and temples. Major attractions include the Godavari River, Kadiyapulanka, and the ISKCON temple.",
+    
+    "tirupati": "Tirupati, located in Andhra Pradesh, is a major pilgrimage destination, known for the Tirumala Venkateswara Temple. Other attractions include Sri Kapileswaraswami Temple and Silathoranam.",
+    
+    "patna": "Patna, the capital of Bihar, is known for its rich history and cultural landmarks. Major tourist spots include the Patna Sahib Gurudwara, Golghar, and the Patna Museum.",
+    
+    "gaya": "Gaya, a city in Bihar, is famous for its spiritual and historical significance. Popular places include the Mahabodhi Temple, Vishnupad Temple, and the Tibetan Monastery."
+},
+
+"indian_capitals" : {
+    "andhra pradesh": "Amaravati, the capital of Andhra Pradesh, is known for its planned city layout and proximity to the Godavari River. Major attractions include the Amaravati Buddhist Site, and the Mangalagiri Temple.",
+    
+    "assam": "Dispur, the capital of Assam, is a political and administrative hub. Major attractions include the Assam State Museum, and the Umananda Temple.",
+    
+    "patna": "Patna, the capital of Bihar, is known for its rich history and cultural landmarks. Major tourist spots include the Patna Sahib Gurudwara, Golghar, and the Patna Museum.",
+    
+    "chhattisgarh": "Raipur, the capital of Chhattisgarh, is known for its vibrant cultural scene and proximity to natural attractions. Key spots include the Mahant Ghasidas Memorial Museum and the Nandanvan Zoo.",
+    
+    "goa": "Panaji, the capital of Goa, is known for its colonial architecture and beaches. Major attractions include the Church of Our Lady of the Immaculate Conception, and Miramar Beach.",
+    
+    "gujarat": "Gandhinagar, the capital of Gujarat, is known for its well-planned city design and proximity to Ahmedabad. Major attractions include the Akshardham Temple and Sarita Udyan.",
+    
+    "himachal pradesh": "Shimla, the capital of Himachal Pradesh, is known for its colonial architecture and scenic beauty. Key attractions include Mall Road, Jakhoo Temple, and Kufri.",
+    
+    "bihar": "Ranchi, the capital of Jharkhand, is known for its natural beauty and vibrant culture. Major attractions include the Ranchi Lake, Hundru Falls, and Rock Garden.",
+    
+    "karnataka": "Bengaluru, the capital of Karnataka, is known as the 'Silicon Valley of India' due to its IT industry. Major attractions include Lalbagh Botanical Garden, Bangalore Palace, and Cubbon Park.",
+    
+    "kerala": "Thiruvananthapuram, the capital of Kerala, is known for its cultural heritage and proximity to beaches. Major attractions include the Sree Padmanabhaswamy Temple, and Kovalam Beach.",
+    
+    "madhya pradesh": "Bhopal, the capital of Madhya Pradesh, is known for its lakes and historical landmarks. Major attractions include the Upper Lake, Taj-ul-Masajid, and Bhimbetka Caves.",
+    
+    "maharashtra": "Mumbai, the capital of Maharashtra, is known for being the financial capital of India. Major attractions include the Gateway of India, Marine Drive, and Elephanta Caves.",
+    
+    "manipur": "Imphal, the capital of Manipur, is known for its historical significance and natural beauty. Key attractions include the Kangla Fort, Loktak Lake, and the Ima Keithel market.",
+    
+    "meghalaya": "Shillong, the capital of Meghalaya, is known for its cool climate and beautiful landscapes. Major attractions include the Elephant Falls, Ward’s Lake, and the Don Bosco Centre for Indigenous Cultures.",
+    
+    "mizoram": "Aizawl, the capital of Mizoram, is known for its serene beauty and rich cultural heritage. Key attractions include the Durtlang Hills, and the Solomon's Temple.",
+    
+    "nagaland": "Kohima, the capital of Nagaland, is known for its vibrant cultural scene and historical significance. Major attractions include the Kohima War Cemetery, and Dzükou Valley.",
+    
+    "odisha": "Bhubaneswar, the capital of Odisha, is known for its ancient temples and rich history. Key attractions include the Lingaraj Temple, Udayagiri Caves, and Dhauli Hill.",
+    
+    "punjab" : "Chandigarh, the capital of Punjab and Haryana, is known for its modern architecture and well-planned urban layout. Key attractions include Sukhna Lake, Rock Garden, and Rose Garden.",
+    
+    "rajasthan": "Jaipur, the capital of Rajasthan, is known as the 'Pink City' for its distinctive architecture. Major attractions include the Amber Fort, City Palace, and Hawa Mahal.",
+
+    "haryana" :"Chandigarh, the capital of Punjab and Haryana, is known for its modern architecture and well-planned urban layout. Key attractions include Sukhna Lake, Rock Garden, and Rose Garden.",
+    
+    "sikkim": "Gangtok, the capital of Sikkim, is known for its panoramic views of the Himalayas. Major attractions include Tsomgo Lake, Rumtek Monastery, and Nathu La Pass.",
+    
+    "tamil nadu": "Chennai, the capital of Tamil Nadu, is known for its classical music, dance, and beaches. Major attractions include Marina Beach, Kapaleeshwarar Temple, and Fort St. George.",
+    
+    "telengana": "Hyderabad, the capital of Telangana, is known for its historical monuments and IT industry. Major attractions include the Charminar, Golconda Fort, and Hussain Sagar Lake.",
+    
+    "tripura": "Agartala, the capital of Tripura, is known for its cultural heritage and natural beauty. Key attractions include the Ujjayanta Palace, Neermahal Palace, and Sepahijala Wildlife Sanctuary.",
+    
+    "uttar pradesh": "Lucknow, the capital of Uttar Pradesh, is known for its Mughal architecture and rich cultural heritage. Major attractions include the Bara Imambara, Chota Imambara, and Rumi Darwaza.",
+    
+    "uttarakhand": "Dehradun, the capital of Uttarakhand, is known for its picturesque landscapes and proximity to hill stations like Mussoorie. Key attractions include Robber’s Cave, Sahastradhara, and Mindrolling Monastery.",
+    
+    "west bengal": "Kolkata, the capital of West Bengal, is known for its colonial architecture and cultural heritage. Major attractions include the Victoria Memorial, Howrah Bridge, and Dakshineswar Kali Temple."
+},
+
+"global_monuments": {
+    
+    "Ram Setu":"Ram Setu, also known as Adam's Bridge, is a natural chain of limestone shoals between India and Sri Lanka. In Hindu tradition, it is believed to be the bridge Lord Rama built to reach Lanka, as described in the Ramayana. Geologically, it's a natural formation of coral reefs and sandbanks, estimated to be 7,000 to 18,000 years old. The structure has been a subject of controversy, especially with the proposed Sethusamudram Shipping Canal Project, which may impact the ecosystem and the bridge's integrity. Ram Setu holds both cultural and scientific significance.",
+    
+    "great wall of china": "The Great Wall of China, located in northern China, is known for its immense length of over 13,000 miles. Originally built to protect Chinese states from invasions, it is the longest man-made structure in the world and a UNESCO World Heritage site.",
+
+    "taj mahal": "The Taj Mahal, located in Agra, India, was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. A white marble mausoleum, it is one of the Seven Wonders of the World, symbolizing love.",
+
+    "eiffel tower": "The Eiffel Tower, located in Paris, France, was completed in 1889 for the World’s Fair. Standing at 1,083 feet, it is one of the most visited paid structures in the world and was initially intended as a temporary structure.",
+
+    "pyramid of giza": "The Pyramids of Giza, located in Giza, Egypt, are the last remaining wonder of the ancient world. Built as tombs for pharaohs, the Great Pyramid is estimated to have been built over 4,500 years ago.",
+
+    "colosseum": "The Colosseum, located in Rome, Italy, is an ancient amphitheater where gladiators fought. It could hold up to 80,000 spectators and remains one of Rome's most famous landmarks.",
+    
+    "christ the redeemer": "Christ the Redeemer, located in Rio de Janeiro, Brazil, is a large statue of Jesus Christ that stands atop Mount Corcovado. It is one of the New Seven Wonders of the World, symbolizing peace and Christianity.",
+    
+    "machu picchu": "Machu Picchu, located in the Cusco Region, Peru, is an ancient Incan city built in the 15th century. It is a marvel of Inca architecture and was rediscovered in 1911.",
+    
+    "Stonehenge": "Stonehenge, located in Wiltshire, England, is a prehistoric stone circle with a purpose still widely debated. It may have been a place of worship, burial, or astronomical observation, dating back to around 3000 BC.",
+    
+    "Angkor Wat": "Angkor Wat, located in Siem Reap, Cambodia, is the largest religious complex in the world. Built in the 12th century, it was initially a Hindu temple before being converted to a Buddhist one.",
+    
+    "petra": "Petra, located in Ma'an Governorate, Jordan, is an ancient city carved into the rose-red sandstone cliffs. Known as the 'Rose City,' it was once a thriving trading hub.",
+    
+    "Parthenon": "The Parthenon, located in Athens, Greece, was built as a temple to the goddess Athena. It stands atop the Acropolis and is a symbol of ancient Greek civilization.",
+    
+    "Kremlin and the Red Square": "The Kremlin and Red Square, located in Moscow, Russia, have been the seat of Russian power for centuries. The area includes significant landmarks like St. Basil’s Cathedral and Lenin's Mausoleum.",
+    
+    "Mount Rashmore": "Mount Rushmore, located in South Dakota, USA, features colossal sculptures of four U.S. presidents carved into granite. It represents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln.",
+    
+    "Sagrada Família": "Sagrada Família, located in Barcelona, Spain, is a basilica designed by Antoni Gaudí. Construction began in 1882 and continues today, blending Gothic and Art Nouveau styles.",
+    
+    "Alhambra": "Alhambra, located in Granada, Spain, is a palace and fortress complex built during the Nasrid dynasty. Known for its intricate Islamic art, it has impressive gardens, fountains, and courtyards.",
+    
+    "The Sydney Opera House": "The Sydney Opera House, located in Sydney, Australia, is known for its unique sail-like design. A major cultural hub, it hosts over 1,500 performances annually.",
+    
+    "Neuschwanstein Castle": "Neuschwanstein Castle, located in Bavaria, Germany, is a fairytale-like castle built by King Ludwig II. It inspired Disney’s Sleeping Beauty Castle and is surrounded by forests and lakes.",
+    
+    "The Moai Statues of Easter Island": "The Moai Statues of Easter Island, located in Chile, are large stone statues built by the Rapa Nui people. These statues represent deified ancestors, with around 900 scattered across the island.",
+    
+    "Chichen Itza": "Chichen Itza, located in Yucatán, Mexico, was a major political and economic center of the Maya civilization. The El Castillo pyramid is one of its most famous structures.",
+    
+    "The Burj Khalifa": "The Burj Khalifa, located in Dubai, United Arab Emirates, is the tallest building in the world, standing at 828 meters. It has 163 floors and is a landmark in Dubai’s skyline.",
+    
+    "Mount Fuji": "Mount Fuji, located on Honshu, Japan, is the country's highest peak. It is a sacred site in Shinto and Buddhism and is an active stratovolcano.",
+    
+    "The Golden Gate Bridge": "The Golden Gate Bridge, located in San Francisco, California, USA, is one of the most photographed bridges in the world. Completed in 1937, it was once the longest suspension bridge in the world.",
+    
+    "The Palace of Versailles": "The Palace of Versailles, located in Versailles, France, was the royal residence and center of political power under King Louis XIV. Famous for its Hall of Mirrors and extensive gardens, it showcases grand architecture.",
+    
+    "The Acropolis": "The Acropolis, located in Athens, Greece, is a symbol of ancient Greek civilization, housing iconic structures like the Parthenon. The site has been continuously inhabited for thousands of years."
+}
+} 
